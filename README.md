@@ -5,7 +5,7 @@ This repository contains links to some of the ML models I have built either for 
 ## [Classification Models](https://github.com/Auckland68/Classification-Models)
 
 
-## Regression Models
+## [Regression Models](https://github.com/Auckland68/Regression-Models)
 
 
-## Clustering Models
+## [Clustering Models](https://github.com/Auckland68/Clustering-Models)
